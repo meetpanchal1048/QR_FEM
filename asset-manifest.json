@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/QR_FEM/static/css/main.289266af.css",
+    "main.js": "/QR_FEM/static/js/main.9bf15e7e.js",
+    "index.html": "/QR_FEM/index.html",
+    "main.289266af.css.map": "/QR_FEM/static/css/main.289266af.css.map",
+    "main.9bf15e7e.js.map": "/QR_FEM/static/js/main.9bf15e7e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.289266af.css",
+    "static/js/main.9bf15e7e.js"
+  ]
+}
